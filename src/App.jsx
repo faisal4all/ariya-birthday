@@ -79,7 +79,7 @@ function useBirthdaySong() {
     // Happy Birthday notes: C C D C F E | C C D C G F | C C C5 A F E D | Bb Bb A F G F
     const C4=261.63, D4=293.66, E4=329.63, F4=349.23, G4=392.00,
           A4=440.00, Bb4=466.16, C5=523.25;
-    const Q=0.42, H=0.84, DQ=0.63, E=0.21;
+    const H=0.84, DQ=0.63, E=0.21;
 
     // [freq, duration]
     const melody = [
